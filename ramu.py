@@ -1,4 +1,5 @@
-import request
+import requests
+from PIL import Image, ImageDraw, ImageFont
 
 # Replace with your Facebook cookies
 cookies = {
